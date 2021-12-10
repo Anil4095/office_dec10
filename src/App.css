@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+  top: 50%;
+        left: 50%;
+        width: 30em;
+        height: 18em;
+        margin-top: -9em;
+        margin-left: -15em;
+        border: 1px solid rgb(224, 201, 201);
+        background-color: #899c7f;
+        position: fixed;
+        border-radius: 20px;
+        
+}
+.inp-div{
+  width: auto;
+  height: 30px;
+  border-radius: 6px;
+}
+.btn-div{
+  display: flex;
+  justify-content: center;
+  width:15%;
+  height: 36px;
+  box-shadow: 3px 2px 2px;
+  border-radius: 3px;
+  background-color: transparent;
+}
+.btn{
+  text-decoration: none;
+  color:black;
+}
